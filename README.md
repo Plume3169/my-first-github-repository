@@ -1,4 +1,4 @@
 # my-first-github-repository
 Formation Git
 
-README.md file was edited manually
+README.md file was edited manually. One more edit at GitHub.
